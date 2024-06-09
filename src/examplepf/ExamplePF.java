@@ -179,7 +179,7 @@ public class ExamplePF {
                                 case 2:
                                     cartaMesaPedido += "," + "15";
                                     break;
-                                default:
+                                case 3:
                                     cartaMesaPedido += "," + "20";
                                     break;
                             }
